@@ -20,9 +20,4 @@ I haven't figured out how to write the description yet, so I won't write it firs
 1. 高质量
 2. 免费
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
 更多信息请进入 [七点技术论坛](https://www.7ihack.com).
