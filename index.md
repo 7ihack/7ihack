@@ -4,9 +4,9 @@
 
 请记住我们的域名∶www.7ihack.com
 
-### Markdown
+### Welcome To The 7i hackers' forum
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I haven't figured out how to write the description yet, so I won't write it first and I'll have time to write it later.
 
 ```markdown
 Syntax highlighted code block
@@ -26,4 +26,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+更多信息请进入 [七点技术论坛](https://www.7ihack.com).
